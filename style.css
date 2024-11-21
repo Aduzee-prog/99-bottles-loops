@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(51, 51, 51) !important;
+}
+#butt{
+    font-size:10px !important ;
+    margin: auto !important;
+    font-weight: bold;
+
+}
+.but{
+    background-color:  rgb(1, 63, 1);
+    border: none;
+    outline: none;
+    border-right: 1px solid black;
+}
+#botton{
+    display: inline-flex;
+    border: 1px solid black;
+    width: 100%;
+    background-color:  rgb(1, 63, 1);
+}
+.but:hover{
+    background-color: green;
+}
+.but2{
+    border: none;
+    outline: none;
+    border-right: 1px solid white;
+    background-color: green;
+    color: white;
+}
+#botton2{
+    display: inline-flex;
+    width: 100%;
+}
+.but2:hover{
+    text-decoration:underline ;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: auto; 
+}
+.sm{
+    border: none;
+    border-right: 2px solid white;
+    padding: 5px;
+}
